@@ -1,2 +1,2 @@
 # Brand-HTML-CSS-Paypal
-Curso Básico HTML Platzi
+Hecho siguiendo el Curso Básico HTML Platzi
